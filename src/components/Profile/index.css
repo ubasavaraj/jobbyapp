@@ -1,0 +1,20 @@
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+}
+.profile {
+  margin-left: 12px;
+  margin-top: 10px;
+}
+.heading {
+  margin-left: 12px;
+  color: blue;
+  font-weight: bold;
+  font-family: Roboto;
+}
+.shortbio {
+  margin-left: 12px;
+  color: black;
+
+  font-family: Roboto;
+}
